@@ -1,6 +1,6 @@
 # CPE551
 ###OpenCV Final Project for CPE 551\
-##Requirements:\
+##Requirements:
 >pip install scipy\
 >pip install imutils\
 >pip install cv\
