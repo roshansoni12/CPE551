@@ -4,7 +4,7 @@
 >pip install scipy\
 >pip install imutils\
 >pip install cv\
->pip install opencv-python opencv-python-headless\
+>pip install opencv-python opencv-python-headless
 
 ## Collaborators:
 Roshan Soni\
